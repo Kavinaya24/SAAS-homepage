@@ -10,7 +10,7 @@ body {
   color: #1f2933;
 }
 
-/* NAVBAR */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -21,7 +21,7 @@ body {
 }
 
 .logo {
-  color: #4f46e5;
+  color: #9a99b5;
 }
 
 .nav-links {
@@ -32,7 +32,7 @@ body {
 
 .nav-links a {
   text-decoration: none;
-  color: #374151;
+  color: #8c8b9f;
 }
 
 .btn {
@@ -43,17 +43,17 @@ body {
 }
 
 .primary {
-  background: #4f46e5;
+  background: #8c8b9f;
   color: white;
 }
 
 .outline {
   background: transparent;
-  border: 1px solid #4f46e5;
-  color: #4f46e5;
+  border: 1px solid #8c8b9f;
+  color: #0c0c0e;
 }
 
-/* HERO */
+
 .hero {
   display: flex;
   justify-content: space-between;
@@ -70,7 +70,7 @@ body {
 .hero-text p {
   font-size: 18px;
   margin-bottom: 30px;
-  color: #4b5563;
+  color: #0b0c0e;
 }
 
 .hero-buttons {
@@ -85,7 +85,7 @@ body {
   box-shadow: 0 10px 30px rgba(0,0,0,0.1);
 }
 
-/* FEATURES */
+
 .features {
   text-align: center;
   padding: 70px 8%;
@@ -93,7 +93,7 @@ body {
 
 .subtitle {
   margin: 10px 0 40px;
-  color: #6b7280;
+  color: #060708;
 }
 
 .feature-grid {
@@ -109,7 +109,7 @@ body {
   box-shadow: 0 6px 20px rgba(0,0,0,0.05);
 }
 
-/* STEPS */
+
 .steps {
   padding: 60px 8%;
   text-align: center;
@@ -129,7 +129,7 @@ body {
   font-weight: bold;
 }
 
-/* PRICING */
+
 .pricing {
   padding: 70px 8%;
   text-align: center;
@@ -150,7 +150,7 @@ body {
 }
 
 .highlight {
-  border: 2px solid #4f46e5;
+  border: 2px solid #8c8b9f;
 }
 
 .price {
@@ -158,15 +158,15 @@ body {
   margin: 15px 0;
 }
 
-/* CTA */
+
 .cta {
-  background: linear-gradient(135deg, #4f46e5, #6366f1);
+  background: linear-gradient(135deg, #717082, #5c5d70);
   color: white;
   text-align: center;
   padding: 60px 20px;
 }
 
-/* FOOTER */
+
 footer {
   text-align: center;
   padding: 20px;
